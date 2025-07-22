@@ -1,2 +1,2 @@
-customer-segmentation-using-K-Means-clustering
+#customer-segmentation-using-K-Means-clustering
 This project performs customer segmentation using the K-Means clustering algorithm on a mall customer dataset. The analysis focuses on two key features—Annual Income and Spending Score—to group customers into distinct clusters based on their shopping behavior. The optimal number of clusters is determined using the Elbow Method, and K-Means is applied to form five customer groups. The clusters are then visualized using a scatter plot, showing how customers are grouped and where the cluster centers lie. This segmentation helps businesses understand different customer types for targeted marketing and better service strategies.
